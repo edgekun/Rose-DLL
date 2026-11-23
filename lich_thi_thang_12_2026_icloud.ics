@@ -1,0 +1,90 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ChatGPT//Lich thi hoc ky 2026//VI
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Lịch thi tháng 12/2026
+X-WR-TIMEZONE:Asia/Ho_Chi_Minh
+BEGIN:VTIMEZONE
+TZID:Asia/Ho_Chi_Minh
+X-LIC-LOCATION:Asia/Ho_Chi_Minh
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZOFFSETFROM:+0700
+TZOFFSETTO:+0700
+TZNAME:ICT
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:e93db80a-1dc1-52c1-bedd-9c02c68192ba@lichthi.local
+DTSTAMP:20261123T193518Z
+DTSTART;TZID=Asia/Ho_Chi_Minh:20261215T153000
+SUMMARY:Thi Quản trị nhân lực căn bản
+LOCATION:V603\, Hà Nội
+DESCRIPTION:Mã lớp học phần: 261_CEMG0111_03\nPhòng thi: V603\nHìn
+ h thức: Tự luận\nLần thi: 1\nĐịa điểm: Hà Nội\nLịch thi 
+ không ghi giờ kết thúc.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:1f96f448-d5e3-5124-9126-249eaa089fbd@lichthi.local
+DTSTAMP:20261123T193518Z
+DTSTART;TZID=Asia/Ho_Chi_Minh:20261216T083000
+SUMMARY:Thi Marketing du lịch
+LOCATION:G201 - phòng máy\, Hà Nội
+DESCRIPTION:Mã lớp học phần: 261_TMKT0511_01\nPhòng thi: G201 - ph
+ òng máy\nHình thức: Trắc nghiệm máy tính\nLần thi: 1\nĐịa 
+ điểm: Hà Nội\nLịch thi không ghi giờ kết thúc.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:eee57c3e-ee70-5c83-8c7b-e7441427b2c2@lichthi.local
+DTSTAMP:20261123T193518Z
+DTSTART;TZID=Asia/Ho_Chi_Minh:20261216T130000
+SUMMARY:Thi Quản trị marketing 2
+LOCATION:V501\, Hà Nội
+DESCRIPTION:Mã lớp học phần: 261_MAGM0511_01\nPhòng thi: V501\nHìn
+ h thức: Tự luận\nLần thi: 1\nĐịa điểm: Hà Nội\nLịch thi 
+ không ghi giờ kết thúc.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:a13575e9-87d3-5daa-9bd8-047052b29627@lichthi.local
+DTSTAMP:20261123T193518Z
+DTSTART;TZID=Asia/Ho_Chi_Minh:20261224T093000
+SUMMARY:Thi Nguyên lý kế toán
+LOCATION:V604\, Hà Nội
+DESCRIPTION:Mã lớp học phần: 261_FACC0111_04\nPhòng thi: V604\nHìn
+ h thức: Tự luận\nLần thi: 1\nĐịa điểm: Hà Nội\nLịch thi 
+ không ghi giờ kết thúc.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:1ec5859c-276d-508a-bacf-cd636adc365c@lichthi.local
+DTSTAMP:20261123T193518Z
+DTSTART;TZID=Asia/Ho_Chi_Minh:20261228T153000
+SUMMARY:Thi Quản trị thương hiệu 1
+LOCATION:V604\, Hà Nội
+DESCRIPTION:Mã lớp học phần: 261_BRMG2011_03\nPhòng thi: V604\nHìn
+ h thức: Tự luận\nLần thi: 1\nĐịa điểm: Hà Nội\nLịch thi 
+ không ghi giờ kết thúc.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:af279afd-a96d-5343-b78a-198c481962ad@lichthi.local
+DTSTAMP:20261123T193518Z
+DTSTART;TZID=Asia/Ho_Chi_Minh:20261229T130000
+SUMMARY:Thi Logistics trong thương mại điện tử
+LOCATION:V604\, Hà Nội
+DESCRIPTION:Mã lớp học phần: 261_BLOG3111_01\nPhòng thi: V604\nHìn
+ h thức: Tự luận\nLần thi: 1\nĐịa điểm: Hà Nội\nLịch thi 
+ không ghi giờ kết thúc.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
